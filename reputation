@@ -1,0 +1,34 @@
+# Reputation
+
+The reputation system will work as follow:
+
+After a campaign to be closed, the instituion will have a time to insert your accontability data (images from social actions, photos from fiscal notes, pdf forms, etc.)
+
+After the institution inserts the documentation on the platform, each donor will be notified (via email) to evaluate the accountability data, according to their own criteria
+
+Questions to be answered by Donor:
+
+A - What´s your feeling about the realized event?
+
+1 - below my expectations
+2 - met my expectations
+3 - exceeded my expectations
+
+B - what´s your assessment in relation to the efficiency of accountability?
+
+1 - inadequate
+2 - regular
+3 - great
+
+C - would you donate again to this institution?
+
+yes / no
+
+D - Write a review
+
+(free answer)
+
+Accontability Quality (1..5) star  = SUM of answers of A and B. (limit to 5).
+
+
+
