@@ -1,11 +1,21 @@
 #TO-DO LIST
 
-Instituion: Persona, Jorney, flow-chart, screen design
+Donor: 
+- Persona 👌
+- Jorney 👌
+- flow-chart 👌
+- screen design (campaign, event, accontability, donations, reviews).
+
+Instituion: 
+- Persona
+- Jorney
+- flow-chart
+- screen design (campaign, event, accontability, donations).
 
 Models and data-base relationship
-
 - donors
 - institutions
 - donations (jointable)
 - campaigns (jointable)
 - accontability (jointable)
+- reviews (jointable)
