@@ -1,0 +1,11 @@
+#TO-DO LIST
+
+Instituion: Persona, Jorney, flow-chart, screen design
+
+Models and data-base relationship
+
+- donors
+- institutions
+- donations (jointable)
+- campaigns (jointable)
+- accontability (jointable)
