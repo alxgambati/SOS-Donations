@@ -14,13 +14,13 @@ A - What´s your feeling about the realized event?
 2 - met my expectations
 3 - exceeded my expectations
 
-B - what´s your assessment in relation to the efficiency of accountability?
+B - What´s your assessment in relation to the efficiency of accountability?
 
-1 - inadequate
-2 - regular
-3 - great
+0 - inadequate
+1 - regular
+2 - great
 
-C - would you donate again to this institution?
+C - Would you donate again to this institution?
 
 yes / no
 
@@ -29,6 +29,8 @@ D - Write a review
 (free answer)
 
 Accontability Quality (1..5) star  = SUM of answers of A and B. (limit to 5).
+
+Inform accontability stars and the donor´s answers.
 
 
 
